@@ -1,7 +1,7 @@
-# Larissa Coelho
+# Larissa Coelho ✨
 + Oi! Eu sou a Lari e faço Ciência da Computação no Cefet-RJ 🖥️
 
-+ Sou apaixonada por tecnologia e atualmente estudo diversas áreas ✨
++ Sou apaixonada por tecnologia e atualmente estudo diversas áreas ❤️
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b27?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/larissa-coelho-/)
