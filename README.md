@@ -25,5 +25,5 @@
 
 ## 📊GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=romugaboo&theme=tokyonight)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=romugaboo&layout=compact&bg_color=1b1b27&border_color=fff&title_color=618fdb&text_color=bf91f3&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=romugaboo&layout=compact&bg_color=1b1b27&border_color=fff&title_color=618fdb&text_color=bf91f3&include_all_commits=true&count_private=truehide=jupyter%20notebook)
 
