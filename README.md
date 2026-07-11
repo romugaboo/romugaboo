@@ -1,8 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1a12&height=6&width=1000)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=39FF88&height=4&width=1000)
 
-<img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="220"/>
+<!-- replace the src below with a lain gif, e.g. layer scene, bicycle, "let's all love lain" -->
+<img src="COLOQUE_AQUI_O_LINK_DA_GIF_DA_LAIN" width="220"/>
 
 </div>
 
@@ -61,8 +62,20 @@
 
 </div>
 
+## 　⌇ layer 05 : contribution grid
+
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0d1a12&height=6&width=1000)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romugaboo/romugaboo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romugaboo/romugaboo/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/romugaboo/romugaboo/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=39FF88&height=4&width=1000)
 
 </div>
