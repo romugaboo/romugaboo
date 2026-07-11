@@ -4,20 +4,6 @@
 
 </div>
 
-<pre align="center">
-        .
-       / \
-      / _ \
-     |.o '.|
-     |'._.'|
-      \   /
-   .-'`   `'-.
-  /   ,     ,  \
- |    |     |   |
-  \   `-._.-'  /
-   `'-------'`
-</pre>
-
 ```
 > connecting to the wired...
 > signal acquired
@@ -53,7 +39,7 @@
 
 <div align="center">
 
-　Rio de Janeiro, BR
+　rio de janeiro, BR
 　full stack developer
 　the wired is everywhere, is it not?
 
