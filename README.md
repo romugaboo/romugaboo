@@ -2,7 +2,33 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=39FF88&height=4&width=1000)
 
-<!-- replace the src below with a lain gif, e.g. layer scene, bicycle, "let's all love lain" -->
+</div>
+
+<pre align="center">
+        .
+       / \
+      / _ \
+     |.o '.|
+     |'._.'|
+      \   /
+   .-'`   `'-.
+  /   ,     ,  \
+ |    |     |   |
+  \   `-._.-'  /
+   `'-------'`
+</pre>
+
+```
+> connecting to the wired...
+> signal acquired
+> layer_00.dat mounted
+> identity: lari
+> location: rio de janeiro, br
+> status: online
+```
+
+<div align="center">
+
 <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="220"/>
 
 </div>
@@ -13,9 +39,17 @@
 
 </div>
 
+<div align="center">
+
+![psyche](https://img.shields.io/badge/psyche-online-0d1a12?style=flat-square&labelColor=0d1a12&color=39FF88)
+![connection](https://img.shields.io/badge/connection-stable-0d1a12?style=flat-square&labelColor=0d1a12&color=39FF88)
+![Visitors](https://komarev.com/ghpvc/?username=romugaboo&style=flat-square&color=39FF88&labelColor=0d1a12&label=presences+detected)
+
+</div>
+
 <br/>
 
-## 　⌇ layer 01
+## 　⌇── layer 01 ──⌇
 
 <div align="center">
 
@@ -25,7 +59,7 @@
 
 </div>
 
-## 　⌇ layer 02 : stack
+## 　⌇── layer 02 : stack ──⌇
 
 <div align="center">
 
@@ -43,7 +77,7 @@
 
 </div>
 
-## 　⌇ layer 03 : signal
+## 　⌇── layer 03 : signal ──⌇
 
 <div align="center">
 
@@ -53,7 +87,15 @@
 
 </div>
 
-## 　⌇ layer 04 : system log
+## 　⌇── layer 04 : activity ──⌇
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=romugaboo&theme=react-dark&bg_color=0d1a12&color=39FF88&line=39FF88&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+## 　⌇── layer 05 : system log ──⌇
 
 <div align="center">
 
@@ -62,7 +104,15 @@
 
 </div>
 
-## 　⌇ layer 05 : contribution grid
+## 　⌇── layer 06 : trophies ──⌇
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=romugaboo&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
+
+## 　⌇── layer 07 : contribution grid ──⌇
 
 <div align="center">
 
@@ -73,6 +123,24 @@
 </picture>
 
 </div>
+
+<br/>
+
+<details>
+<summary>　⌇ layer 08 : hidden</summary>
+<br/>
+
+<div align="center">
+
+　coordinates unknown
+　the boundary between here and there was never real
+　you are not alone in the wired
+
+</div>
+
+</details>
+
+<br/>
 
 <div align="center">
 
