@@ -1,8 +1,7 @@
-<img width="500" height="355" alt="image" src="https://github.com/user-attachments/assets/f70fa304-61c6-4342-8351-ae67cf74cc83" /><div align="center">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1a12&height=6&width=1000)
 
-<!-- replace the src below with a lain gif, e.g. layer scene, bicycle, "let's all love lain" -->
 <img src="https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif" width="220"/>
 
 </div>
