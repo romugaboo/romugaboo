@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/xUOxf48siOQCtF9lXe/giphy.gif" width="120" align="right"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61A5FA&center=false&vCenter=true&width=500&lines=de+dia+trabalho+no+computador+%F0%9F%96%A5%EF%B8%8F;de+noite+me+divirto+no+computador+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61A5FA&center=false&vCenter=true&width=500&lines=de+dia+trabalho+no+computador;de+noite+me+divirto+no+computador)](https://git.io/typing-svg)
 
 ## 🎀 sobre mim
 
@@ -26,9 +26,9 @@
 
 ## 💌 me encontra por aí
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b27?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/larissa-coelho-/)
-[![YouTube](https://img.shields.io/badge/YouTube-1b1b27?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@livesdalari)
-[![Twitch](https://img.shields.io/badge/Twitch-1b1b27?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/romugaboo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1b1b27?style=for-the-badge&logo=linkedin&logoColor=61A5FA)](https://www.linkedin.com/in/larissa-coelho-/)
+[![YouTube](https://img.shields.io/badge/YouTube-1b1b27?style=for-the-badge&logo=youtube&logoColor=61A5FA)](https://www.youtube.com/@livesdalari)
+[![Twitch](https://img.shields.io/badge/Twitch-1b1b27?style=for-the-badge&logo=twitch&logoColor=61A5FA)](https://www.twitch.tv/romugaboo)
 
 ## 📊 estatísticas legais
 
