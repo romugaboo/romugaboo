@@ -104,7 +104,7 @@
 <br/>
 
 <details>
-<summary>　⌇ layer 08 : hidden</summary>
+<summary>　⌇ layer 07 : hidden</summary>
 <br/>
 
 <div align="center">
