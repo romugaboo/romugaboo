@@ -85,20 +85,11 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romugaboo&layout=compact&bg_color=0d1a12&border_color=39FF88&title_color=39FF88&text_color=fff&hide=jupyter%20notebook)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=romugaboo&background=0d1a12&stroke=39FF88&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=fff&currStreakNum=fff&sideNums=fff)
 
 </div>
 
-## 　⌇── layer 06 : trophies ──⌇
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=romugaboo&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
-## 　⌇── layer 07 : contribution grid ──⌇
+## 　⌇── layer 06 : contribution grid ──⌇
 
 <div align="center">
 
