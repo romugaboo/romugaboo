@@ -67,8 +67,9 @@
 
 <div align="center">
 
+[![Site](https://img.shields.io/badge/romugaboo.github.io-0d1a12?style=for-the-badge&logo=githubpages&logoColor=39FF88)](https://romugaboo.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1a12?style=for-the-badge&logo=linkedin&logoColor=39FF88)](https://www.linkedin.com/in/larissa-coelho-/)
-[![YouTube](https://img.shields.io/badge/YouTube-0d1a12?style=for-the-badge&logo=youtube&logoColor=39FF88)](https://www.youtube.com/@livesdalari)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1a12?style=for-the-badge&logo=youtube&logoColor=39FF88)](https://www.youtube.com/@romugaboo)
 [![Twitch](https://img.shields.io/badge/Twitch-0d1a12?style=for-the-badge&logo=twitch&logoColor=39FF88)](https://www.twitch.tv/romugaboo)
 
 </div>
@@ -123,4 +124,8 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=rect&color=39FF88&height=4&width=1000)
 
+</div>
+
+<div align="center">
+<sub>made with love by <a href="https://romugaboo.github.io">romugaboo</a> from brazil ✧ silly online ♡</sub>
 </div>
